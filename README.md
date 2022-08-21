@@ -1,7 +1,7 @@
 
 <img src="https://editorialia.com/wp-content/uploads/2022/08/2_Mini_Cover-Fundamentos-para-la-Inteligencia-Artificial-y-el-Big-Data_-_Python-practico_-1.jpg" alt="Fundamentos para la Inteligencia Artificial y el Big Data: «Python practico». DOI: 10.21428/39829d0b.8fe1dbf5"/>
 
-# Ejercicios complementarios del libro «Fundamentos para la Inteligencia Artificial y el Big Data: "Python practico"».
+# Ejercicios complementarios del libro «Fundamentos para la Inteligencia Artificial y el Big Data: "Python practico"»
 
 
 DOI: 10.21428/39829d0b.8fe1dbf5. Disponible en Amazon en versión kindle mejorada en:https://amzn.to/3dL2SAt
